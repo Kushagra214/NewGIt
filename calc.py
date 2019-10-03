@@ -7,7 +7,7 @@ x = input("Your Choice ? ")
 if x==1:
 		s = 0
 	 	while True:
-			y = input("Enter Number: ")
+			y = input("Enter the Number: ")
 			s += y
 			ch = input("Add more? Press 1 : ")
 			if ch != 1:
